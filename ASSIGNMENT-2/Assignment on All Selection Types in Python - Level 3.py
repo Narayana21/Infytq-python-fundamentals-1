@@ -45,3 +45,4 @@ def calculate_loan(account_number,salary,account_balance,loan_type,loan_amount_e
     else:
         print("Invalid account number")
 calculate_loan(1214,90000,100000,"Business",7500000,80)
+pass
